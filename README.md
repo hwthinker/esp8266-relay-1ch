@@ -1,5 +1,5 @@
 # Modul ESP8266 ESP-12f Relay 1 Channel 
-![](https://github.com/hwthinker/esp8266-relay-1ch/blob/main/esp8266%20Relay%20esp-12f.png)
+![](https://github.com/hwthinker/esp8266-relay-1ch/blob/main/skematik.png)
 ## Cara download
 - Pasang serial USB TTL dengan ketentuan RX -> TX USB Serial ; TX -> RX USB Serial; GND -> GND USB Serial
 - pasang Jumper
