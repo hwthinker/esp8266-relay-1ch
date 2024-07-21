@@ -15,3 +15,4 @@
 - git push -u origin main …or push an existing repository from the command line 
 - git remote add origin git@github.com:hwthinker/esp8266-relay-1ch.git 
 - git branch -M main git push -u origin main
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
