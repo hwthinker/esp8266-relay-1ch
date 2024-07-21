@@ -1,4 +1,4 @@
-##Cara download
+## Cara download
 - Pasang serial USB TTL dengan ketentuan RX -> TX USB Serial ; TX -> RX USB Serial; GND -> GND USB Serial
 - pasang Jumper
 - Beri Power antara 7-28VDC
@@ -6,7 +6,7 @@
 - lepas jumper
 - Unplug Power dan Pasang lagi untuk run-program
 - ulang langkah awal untuk download ulang
-##cara upload 
+## cara upload 
 - echo "# esp8266-relay-1ch" >> README.md 
 - git init git add README.md 
 - git commit -m "first commit" 
